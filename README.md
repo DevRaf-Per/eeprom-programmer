@@ -1,6 +1,8 @@
 # Arduino EEPROM programmer
 
-Copyright 2017 Ben Eater
+## Copyright 2020 DevRaf
+
+> _Copyright 2017 Ben Eater_
 
 This code and schematic are [MIT licensed](http://en.wikipedia.org/wiki/MIT_License).
 
